@@ -755,6 +755,7 @@ body {
       -ms-flex-align: start;
           align-items: start;
   max-width: 22.0625rem;
+  width: 100%;
 }
 
 .card-interest__icon img {
